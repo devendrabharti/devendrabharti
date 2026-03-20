@@ -35,7 +35,6 @@ const Devendra = {
 - 🏆 Goal: **Contribute to open-source data projects and build impactful data-driven solutions.**
 - 💬 Ask me about **Data Analysis, Power BI, SQL, Python (Pandas, NumPy), and EDA.**
 - 📫 How to reach me: **devendrabharti3434@gmail.com**
-- 🌐 Portfolio: **(Add your portfolio link here if available)**
 - ⚡ **Passionate about turning data into actionable insights and solving real-world problems.**
 
 ---
